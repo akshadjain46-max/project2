@@ -1,0 +1,11 @@
+git remote add origin <link>
+
+git remote -v    (to verify the remote)
+
+git branch       (to check branch)
+
+git branch -M main    (to change the branch name to "main")
+
+git push origin main   (push code to github repo)
+
+init - used to create a new git repo.
